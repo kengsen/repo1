@@ -1,3 +1,11 @@
 heloow ssxaxax
 xixixiixi
+xixixiixi
+luoxiaopang
+wawa<<<<<<< .mine
+xixixiixi
 wawa
+=======
+xixixiixi
+luoxiaopang
+>>>>>>> .theirs
